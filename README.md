@@ -9,3 +9,6 @@ Analysis was done on the below aspects to find valuable insights.
 
 Beneficiaries from Airlines Canada Campaign..!
 ![image](https://github.com/user-attachments/assets/2ed45998-3be9-4d2e-a808-48f95c7007e1)
+
+Impact of Booking on Canada Airlines by campaign....!
+![image](https://github.com/user-attachments/assets/1eaab440-5706-4379-bacc-d1e64effe69a)
